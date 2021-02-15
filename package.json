@@ -1,0 +1,18 @@
+{
+  "name": "onscreen_spotify_lyrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "Dani",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "electron": "^12.0.0-beta.22",
+    "i": "^0.3.6",
+    "npm": "^7.5.2"
+  },
+  "dependencies": {}
+}
